@@ -1,0 +1,27 @@
+h1{
+    color:#000000
+}
+*{
+    border:solid
+}
+.header{
+    background-color: #ff0000;
+    font-size: small;
+    font-style: oblique;
+    padding: 1cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: #ff4000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    
+    display: flex;
+    justify-content: flex-end
+    ;
+}
